@@ -4,7 +4,7 @@ Exemplo de uso do Python, GeoJSON and GeoPandas para Geo Espacial
 ## Como utilizar?
 
 1. Clone o repositório.
-2. Crie um virtual env com Python 3.6
+2. Crie um virtual env com Python >= 3.5
 3. Ative o virtualenv.
 4. Instale as dependências.
 4. Execute os arquivo mapa.py.
