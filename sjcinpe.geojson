@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "name": "Dinagat Islands",
+        "marker-color": "#48ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.85959434509277,
+          -23.218788635003936
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "marker-color": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.86620330810547,
+              -23.19244047577093
+            ],
+            [
+              -45.887489318847656,
+              -23.20979613466111
+            ],
+            [
+              -45.87787628173828,
+              -23.2315664097847
+            ],
+            [
+              -45.85075378417969,
+              -23.228096024018107
+            ],
+            [
+              -45.86620330810547,
+              -23.19244047577093
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
