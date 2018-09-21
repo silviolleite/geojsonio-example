@@ -23,7 +23,7 @@ python -m mapa.py
 git clone git@github.com:silviolleite/geojsonio-example.git mapa
 cd mapa
 python -m venv .venv
-source .venv\bin\activate
+source .venv/bin/activate
 pip install -r requirements.txt
 python -m mapa.py
 ```
